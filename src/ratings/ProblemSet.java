@@ -14,7 +14,7 @@ public class ProblemSet {
         //
         // Examples
         // [1,2,3] returns 2.0
-        // [-5, 5] returns 0.0
+        // [-5,5] returns 0.0
         // [7,7,8,8] returns 7.5
         // [] returns 0.0
 
@@ -30,7 +30,7 @@ public class ProblemSet {
     // -36 returns 9
 
 
-    // TODO: Write a public static method named bestKey that takes a HashMap of String to Integer as
+    // TODO: Write a public static method named bestKey that takes a HashMap of String to Integer
     //       as a parameter and returns a key mapping to the largest Integer. Ties can be broken arbitrarily.
     //       If the HashMap is empty, return the empty String
     //
