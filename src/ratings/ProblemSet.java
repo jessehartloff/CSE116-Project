@@ -13,9 +13,9 @@ public class ProblemSet {
         //       If the ArrayList is empty, return 0.0
         //
         // Examples
-        // [1,2,3] returns 2.0
-        // [-5,5] returns 0.0
-        // [7,7,8,8] returns 7.5
+        // [1.0,2.0,3.0] returns 2.0
+        // [-5.0,5.0] returns 0.0
+        // [6.5,6.5,8.5,8.5] returns 7.5
         // [] returns 0.0
 
     }
