@@ -13,6 +13,10 @@
         <maven.compiler.target>19</maven.compiler.target>
     </properties>
 
+    <build>
+        <sourceDirectory>src</sourceDirectory>
+    </build>
+
     <dependencies>
         <!-- https://mvnrepository.com/artifact/junit/junit -->
         <dependency>
